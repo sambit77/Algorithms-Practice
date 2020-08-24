@@ -1,6 +1,6 @@
 //Time Compelxity O(n^2) | Space Complexity O(1)
 import java.util.*;
-class A
+class A 
 {
 	public static void main(String[] args) 
 	{
